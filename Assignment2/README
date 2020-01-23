@@ -1,0 +1,7 @@
+n this assignment, you are required to implement collision detection and bit-checking for your game.
+
+You will have to implement pixel perfect collision with some way of visualising the collision (i.e. could be outlines where it collides etc.)
+
+The second part of the assignment is to improve the efficiency from O(n2).
+
+You can also score bonus marks by implementing a better bounding-box for your objects.
