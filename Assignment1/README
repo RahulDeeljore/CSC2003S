@@ -1,0 +1,9 @@
+Instructions
+Your first assignment is to recreate the noble and ancient game of Tetris and add your own twist on it. If you do not know how Tetris works or what it is you can click here to check it out.
+
+Requirements
+You must use libGDX to implement the core game mechanics and introduce one novel mechanic of your own (such as reversing time or exploding blocks). Furthermore, you must implement Tetris without using 3rd party libraries such as Box2D.
+
+Include a README of how to compile, run and play your game.
+
+You are allowed to use any game assets that are free to use or are openly licensed.
