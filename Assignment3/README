@@ -1,0 +1,14 @@
+***This game runs on inform7***
+
+Instructions
+Using the partially complete interactive fiction provided (in attached file) create a complete game. You will be required to:
+
+(a) Fix the errors in the existing file.
+
+(b) Provide descriptions where these are missing.
+
+(c) By adding or modifying rooms and / or objects create a solution to an evil plot by having the player collect objects. In doing so you may add rules. The evil plot can be anything involving the characters from the Order of Curmudgeons that you think is appropriate. You are encouraged to use your creativity.
+
+(d) Create a time limit (sunrise) before which the puzzle must be solved.
+
+(e) Create at least one red herring (set of objects and their interactions that seem like they might solve the puzzle but in the end do not).
